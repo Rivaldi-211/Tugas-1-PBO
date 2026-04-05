@@ -1,3 +1,7 @@
+/*M. Rivaldi Juliadin 
+13020240021 
+/*Jumat,3/4/2026
+19:00*/
 public class Oper3 {
     public static void main(String[] args) {
         // TODO Auto-generated method stub

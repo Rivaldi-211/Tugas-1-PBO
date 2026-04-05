@@ -1,10 +1,7 @@
-/* Deskripsi : */
-/* Program ini berisi contoh sederhana untuk
-mendefinisikan */
-/* variabel-variabel bilangan bulat (short int, int, long
-int),
-*/
-/* karakter, bilangan riil, */
+/*13020240021
+M. Rivaldi Juliadin
+Jumat,3/4/2026 
+19:00*/
 public class ASIGNi {
     /**
     * @param args
@@ -29,8 +26,7 @@ public class ASIGNi {
         /* penulisan karakter sebagai integer */
         System.out.println("Karakter = "+ c);
         System.out.println("Karakter = "+ c1);
-        System.out.println ("Bilangan integer (short) = "+
-        ks);
+        System.out.println ("Bilangan integer (short) = "+ ks);
         System.out.println("\t(int) = "+ ki);
         System.out.println("\t(long)= "+ kl);
         System.out.println("Bilangan Real x = "+ x);

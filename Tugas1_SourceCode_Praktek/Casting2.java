@@ -1,4 +1,8 @@
 /*Casting menggunakan tipe data Class*/
+/*13020240021
+M. Rivaldi Juliadin
+Jumat,3/4/2026 
+19:00*/
 public class Casting2 {
     /**
     * @param args

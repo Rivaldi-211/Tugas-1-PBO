@@ -1,4 +1,8 @@
 /*Casting menggunakan tipe data primitif*/
+/*13020240021
+M. Rivaldi Juliadin
+Jumat,3/4/2026 
+19:00*/
 public class Casting1 {
     public static void main(String[] args) {
         // TODO Auto-generated method stub

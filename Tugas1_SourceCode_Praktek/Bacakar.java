@@ -1,3 +1,7 @@
+/*13020240021
+M. Rivaldi Juliadin
+Jumat,3/4/2026 
+19:00*/
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
